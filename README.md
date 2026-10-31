@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pedamallusriaditya-bot/DSA/tree/master/0001-two-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pedamallusriaditya-bot/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3665-twisted-mirror-path-count](https://github.com/pedamallusriaditya-bot/DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pedamallusriaditya-bot/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/pedamallusriaditya-bot/DSA/tree/master/3665-twisted-mirror-path-count) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/pedamallusriaditya-bot/DSA/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
