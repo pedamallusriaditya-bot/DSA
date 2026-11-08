@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pedamallusriaditya-bot/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pedamallusriaditya-bot/DSA/tree/master/0009-palindrome-number) |
+| [0096-unique-binary-search-trees](https://github.com/pedamallusriaditya-bot/DSA/tree/master/0096-unique-binary-search-trees) |
 ## Array
 |  |
 | ------- |
@@ -47,9 +48,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/pedamallusriaditya-bot/DSA/tree/master/0096-unique-binary-search-trees) |
 | [3665-twisted-mirror-path-count](https://github.com/pedamallusriaditya-bot/DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/pedamallusriaditya-bot/DSA/tree/master/3665-twisted-mirror-path-count) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/pedamallusriaditya-bot/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/pedamallusriaditya-bot/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/pedamallusriaditya-bot/DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
